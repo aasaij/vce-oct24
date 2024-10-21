@@ -1,0 +1,13 @@
+
+function definition syntax
+return_type <function_name> (<parameter_list>){
+	<function_body>
+	
+	[return [<return_value>]];
+}
+
+function declaration syntax
+return_type <function_name>(<parameter_types>);
+
+function calling syntax
+<function_name>(<parameter_list>);
